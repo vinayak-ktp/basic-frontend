@@ -1,2 +1,2 @@
 # basic-frontend
-front-end with html and css
+a few front-end projects using just html and css
